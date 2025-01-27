@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     commands:
-      -echo "No dependencies needed for a static HTML webiste."
+      - echo "No dependencies needed for a static HTML webiste."
 
 build:
   commands:
